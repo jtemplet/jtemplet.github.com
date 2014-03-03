@@ -8,14 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Jason Templeton's Personal Blog
+tagline: Helping you navigate the waters of software development
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jason Templeton
+  email : jtemple77@gmail.com
+  github : jtemplet
+  twitter : jason_templeton
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -74,6 +73,8 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+  about_path: /pages/about/index.html
+  games_path: /pages/games/index.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
