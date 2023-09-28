@@ -6,13 +6,14 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Team Lead/Senior Software Engineer with 20+ years of design and development experience including a strong foundation in Computer Science. Strongest in Ruby, yet proficient in other languages such as Node.js, Java and C++. Prompt individual who consistently meets deadlines for projects to remain on schedule. Adept at working as part of a team or independently. Experienced with large, long term projects as well as fast small, fast-paced environments and managing multiple tasks. Technology enthusiast, keeping current with news, trends, frameworks and languages.
 
-If you have a question about him or else, just send a letter to him.
+My goal is to contribute to the success of an innovative software project by providing my experience, knowledge and development skills.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Specialties: Ruby, Node.js/Javascript, Vue.js, Java, C++, CSS, HTML, PL/SQL, Postgres, Redis
 
-**may u needs ✨**
+**Contact Details ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+- twitter.com/{{ site.author.twitter }}
