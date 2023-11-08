@@ -1,7 +1,7 @@
 # Site settings
 title: Blog by Jason Templeton # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
+  He's writing in Bahasa about web technology and experience as a journal
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
@@ -17,7 +17,7 @@ author:
 
   username: jtempleton # general username
   github: jtemplet # github username
-  twitter: jason_templeton # twitter username  
+  twitter: jason_templeton # twitter username
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
@@ -25,7 +25,7 @@ author:
 url: "https://klise.now.sh" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-H9VZW5NHMQ # leave it blank if not wish
 fb_appid:
 
 # Collection setting
