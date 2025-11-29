@@ -1,19 +1,19 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt:
 comments: false
 ---
 
-Team Lead/Senior Software Engineer with 20+ years of design and development experience including a strong foundation in Computer Science. Strongest in Ruby, yet proficient in other languages such as Node.js, Java and C++. Prompt individual who consistently meets deadlines for projects to remain on schedule. Adept at working as part of a team or independently. Experienced with large, long term projects as well as fast small, fast-paced environments and managing multiple tasks. Technology enthusiast, keeping current with news, trends, frameworks and languages.
+I’m a Senior Software Engineer and Team Lead with 20+ years of experience building and shipping software across a wide range of stacks. I’m strongest in Ruby, but I’m comfortable moving between Node.js, Go and modern JavaScript frameworks like Vue/Nuxt. I care about clean architecture, developer experience, and building systems that are reliable and easy to reason about.
 
-My goal is to contribute to the success of an innovative software project by providing my experience, knowledge and development skills.
+Lately I’ve been focused on backend architecture, CI/CD, containerization, and deploying applications to Kubernetes on AWS. I enjoy leading teams through complex projects, simplifying messy systems, and staying current with new tools, languages, and ideas.
 
-Specialties: Ruby, Node.js/Javascript, Vue.js, Java, C++, CSS, HTML, PL/SQL, Postgres, Redis
+Specialties: Ruby, Node.js/Javascript, Vue.js, Go, CSS, HTML, SQL, Postgres, Redis
 
 **Contact Details ✨**
 
-- {{ site.author.email }}
+- linkedin.com/in/{{ site.author.linkedin }}
 - github.com/{{ site.author.github }}
 - twitter.com/{{ site.author.twitter }}
