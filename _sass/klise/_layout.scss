@@ -213,6 +213,36 @@
     max-width: 393px;
     line-height: 1.688;
   }
+
+  .author-social {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .social-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    opacity: 0.7;
+    transition: opacity 0.3s ease, background-color 0.3s ease;
+    text-decoration: none;
+    color: $black;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .social-icon {
+    width: 20px;
+    height: 20px;
+    stroke: currentColor;
+  }
 }
 
 // Content
