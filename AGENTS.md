@@ -48,49 +48,35 @@ Generates static site in `_site/` directory.
 
 ## Progressive Documentation
 
-Jekyll is an in-context learner and will naturally follow existing code patterns and conventions found in the codebase. Consult these detailed guides only when relevant to your current task:
+Jekyll is an in-context learner and will naturally follow existing code patterns and conventions found in the codebase. Consult these guides only when relevant to your current task:
 
-**agent_docs/building_and_testing.md**
-- Development environment setup
-- Build and serve commands with options
-- Testing workflows and checklists
-- Common build errors and solutions
+**agent_docs/overview.md**
+- Technology stack and project features
+- Project structure and key directories
+- Build commands and development workflow
 
-**agent_docs/post_creation.md**
+**agent_docs/posts.md**
 - Post file naming and location
-- Front matter template and fields
-- Markdown syntax and code blocks
-- Categories, tags, and SEO practices
+- Front matter template and required fields
+- Categories, tags, and SEO best practices
 
-**agent_docs/styling_guide.md**
-- SCSS architecture and variables
-- Responsive design patterns
+**agent_docs/styling.md**
+- SCSS structure and organization
+- Responsive design approach
 - Dark mode implementation
-- Customization strategies
+- Color and typography customization
 
-**agent_docs/theme_customization.md**
-- Layout system and components
-- Klisé theme configuration
-- Adding custom features
+**agent_docs/theme.md**
+- Layout system and component organization
+- Klisé theme structure
+- Customization strategies and best practices
 - Theme update procedures
 
-**agent_docs/deployment_checklist.md**
-- Pre-deployment testing steps
-- GitHub Pages configuration
-- DNS and custom domain setup
-- Performance verification
-
-**agent_docs/seo_and_performance.md**
-- On-page SEO best practices
-- Core Web Vitals optimization
-- Analytics setup and monitoring
-- Performance testing tools
-
-**agent_docs/troubleshooting.md**
-- Build and server errors
-- Content display issues
-- Styling problems
-- Deployment failures
+**agent_docs/deployment.md**
+- Build process and GitHub Pages setup
+- Pre-deployment testing checklist
+- Performance verification and SEO checks
+- Common deployment issues and fixes
 
 ## Important Notes
 
