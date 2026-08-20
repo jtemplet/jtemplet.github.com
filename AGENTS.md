@@ -85,3 +85,20 @@ Jekyll is an in-context learner and will naturally follow existing code patterns
 **Always test locally** before pushing. Run `bundle exec jekyll serve` and verify changes in the browser.
 
 **Configuration changes require restart**. Changes to `_config.yml` only take effect after restarting the Jekyll server.
+
+## The author never handles tracker plumbing
+
+Standing instruction from the repository owner, and it outranks any tracker workflow step in
+this file.
+
+1. **Never ask the author to run `bd export`, and never raise `.beads/issues.jsonl` with them.**
+   That file is a passive export of the Dolt database, not something a person maintains. An agent
+   that needs it current runs the export itself, silently, as part of whatever it was already
+   doing.
+2. **Never ask the author to sync the Dolt remote.** Syncing is a machine's job, not something a
+   person should have to remember.
+3. **Report tracker plumbing only when it fails.** A successful export is not news. A failed one
+   is, because the beads then exist on one machine only.
+
+This constrains agents, not `bd` itself. Automation that runs the export on its own is exactly
+what these rules ask for. A checklist that tells a person to run it is what they forbid.
